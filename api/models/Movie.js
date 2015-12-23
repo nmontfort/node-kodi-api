@@ -22,71 +22,67 @@ module.exports = {
       type:"string",
       columnName: 'c00'
     },
-    c01:{
-      type:"string"
+    synopsis:{
+      type:"string",
+      columnName: 'c01'
     },
-    c02:{
-      type:"string"
+    tagline:{
+      type:"string",
+      columnName: 'c03'
     },
-    c03:{
-      type:"string"
+    vote:{
+      type:"string",
+      columnName: 'c04'
     },
-    c04:{
-      type:"string"
+    rating:{
+      type:"string",
+      columnName: 'c05'
     },
-    c05:{
-      type:"string"
+    writers:{
+      type:"string",
+      columnName: 'c06'
     },
-    c06:{
-      type:"string"
+    year:{
+      type:"string",
+      columnName: 'c07'
     },
-    c07:{
-      type:"string"
+    imdb:{
+      type:"string",
+      columnName: 'c09'
     },
-    c08:{
-      type:"string"
+    runtime:{
+      type:"string",
+      columnName: 'c11'
     },
-    c09:{
-      type:"string"
-    },
-    c10:{
-      type:"string"
-    },
-    c11:{
-      type:"string"
-    },
-    c12:{
-      type:"string"
+    mpaa:{
+      type:"string",
+      columnName: 'c12'
     },
     c13:{
       type:"string"
     },
-    c14:{
-      type:"string"
+    genre:{
+      type:"string",
+      columnName: 'c14'
     },
-    c15:{
-      type:"string"
+    director:{
+      type:"string",
+      columnName: 'c15'
     },
     c16:{
       type:"string"
     },
-    c17:{
-      type:"string"
+    studio:{
+      type:"string",
+      columnName: 'c18'
     },
-    c18:{
-      type:"string"
+    country:{
+      type:"string",
+      columnName: 'c21'
     },
-    c19:{
-      type:"string"
-    },
-    c20:{
-      type:"string"
-    },
-    c21:{
-      type:"string"
-    },
-    c22:{
-      type:"string"
+    path:{
+      type:"string",
+      columnName: 'c22'
     },
     c23:{
       type:"string"

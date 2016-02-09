@@ -20,7 +20,7 @@ module.exports = {
   // models: {
   //   connection: 'someMongodbServer'
   // }
-  port: 80,
+  port: 1337,
 
   // Timeout for Raspberry Pi
   hookTimeout: 70000,

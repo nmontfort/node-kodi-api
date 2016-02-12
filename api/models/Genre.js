@@ -6,7 +6,8 @@
 */
 
 module.exports = {
-  connection: 'kodiDb',
+  
+  tableName: 'genre',
 
   attributes: {
     idGenre: {

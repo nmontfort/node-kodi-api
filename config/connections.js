@@ -42,10 +42,10 @@ module.exports.connections = {
   ***************************************************************************/
   kodiDb: {
     adapter: 'sails-mysql',
-    host: 'YOUR_KODI_MYSQL_SERVER_HOSTNAME_OR_IP_ADDRESS',
-    user: 'YOUR_KODI_MYSQL_USER',
-    password: 'YOUR_KODI_MYSQL_PASSWORD',
-    database: 'YOUR_KODI_MYSQL_DB'
+    host: 'localhost',
+    user: 'root',
+    password: '',
+    database: 'api'
   },
 
   /***************************************************************************
